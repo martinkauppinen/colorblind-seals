@@ -1,0 +1,14 @@
+{
+    "id": "ColorblindSeals",
+    "name": "Colorblind Seals",
+    "author": ["Martin Kauppinen"],
+    "version": "1.0.1",
+    "description": "Shaped seals for easier differentiation.",
+    "prefix": "mkcbs",
+    "main_file": "main.lua",
+    "dependencies": [
+	"Lovely (>=0.6)",
+	"Steamodded (>=1.*~)",
+        "malverk (>=1.*)"
+    ]
+}
