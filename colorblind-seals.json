@@ -2,7 +2,7 @@
     "id": "ColorblindSeals",
     "name": "Colorblind Seals",
     "author": ["Martin Kauppinen"],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Shaped seals for easier differentiation.",
     "prefix": "mkcbs",
     "main_file": "main.lua",
