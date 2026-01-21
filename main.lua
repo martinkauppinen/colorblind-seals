@@ -1,3 +1,10 @@
+SMODS.Atlas({
+    key = "modicon",
+    path = "modicon.png",
+    px = 54,
+    py = 54
+})
+
 AltTexture({
     key = 'seal',
     set = 'Seal',
